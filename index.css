@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Signika Negative', sans-serif;
+}
+
+p{
+	
+	font-size: 17px;
+}
+
+.title-font{
+	font-family: 'Sono', sans-serif;
+
+}
+
+.margin-t{
+	margin-top: 80px;
+}
+
+.aboutMe-name{
+	font-size: 40px;
+	margin: 15px;
+	margin-left: 0;
+	font-family: 'Sono';
+
+}
+
+.aboutMe-work{
+	font-size: 25px;
+	margin: 9px;
+	margin-left: 0;
+	font-family: 'Signika Negative', sans-serif;
+}
+
+.aboutMe-me{
+	font-size: 18px;
+	font-family: "Sofia";
+  	text-shadow: 1px 1px 1px whitesmoke;
+}
+
+.max-h{
+	max-height: 800px;
+
+}
+
+.card-title{
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+.tools-name{
+	font-size: 46px;
+	margin-top: 25px;
+}
+
+.footer {
+	justify-items: center;
+	text-align: center;
+	color: whitesmoke;
+}
